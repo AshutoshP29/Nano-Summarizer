@@ -4,7 +4,7 @@ A demonstration project for the Google Chrome Built-in AI Challenge.
 
 This application showcases an innovative, two-stage Meta-Prompting Pipeline powered entirely by Gemini Nano via the Chrome Prompt API. The core function is to transform a large block of text into a structured, visual chart (Bar, Pie, or Line chart) for quick, on-device data insight.
 
-The key innovation is using Gemini Nano not just to summarize, but to first analyze the input text and generate an optimized prompt (Stage 1), and then execute that optimized prompt for highly reliable structured data extraction (Stage 2).
+The key innovation is using Gemini Nano not just to summarize, but to first analyze the input text and generate an optimized prompt, and then execute that optimized prompt for highly reliable structured data extraction.
 
 💡 Core Innovation: Two-Stage Meta-Prompting
 
